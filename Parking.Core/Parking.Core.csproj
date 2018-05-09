@@ -12,8 +12,4 @@
     <CodeAnalysisRuleSet>Parking.Core.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="7.1.0.5212" />
-  </ItemGroup>
-
 </Project>

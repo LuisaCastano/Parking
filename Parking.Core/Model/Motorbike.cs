@@ -7,7 +7,7 @@ namespace Parking.Core.Model
     public class Motorbike : Vehicle
     {
         public Boolean IsAltoCilindraje { get; set; }
-        public override int GetAllVehicles()
+        public override int GetCountVehicles()
         {
             return 4;
         }

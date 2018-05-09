@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<RuleSet Name="SonarQube - Parking Sonar way" ToolsVersion="15.0">
-  <Include Path="..\.sonarlint\583adfafe93f406d35c3b0c2ec3d9d34d20d6556csharp.ruleset" Action="Default" />
-</RuleSet>

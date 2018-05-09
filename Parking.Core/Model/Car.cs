@@ -6,7 +6,7 @@ namespace Parking.Core.Model
 {
     public class Car : Vehicle
     {
-        public override int GetAllVehicles()
+        public override int GetCountVehicles()
         {
             return 20;
         }
